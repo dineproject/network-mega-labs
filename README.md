@@ -2,10 +2,6 @@
 
 Collection of comprehensive network labs covering enterprise networking, automation, and advanced topics.
 
-### About
-
-This repository contains network projects that combine multiple technologies into realistic scenarios.
-
 Each lab includes:
 
 - Complete topology (Packet Tracer)
