@@ -31,7 +31,7 @@ Each lab includes:
 **Tools:** Cisco Packet Tracer 8.2+  
 **Inspired by:** [GuruTech Network](https://gurutechnetworks.otombenard.com/assetsProject/advanceproject4)
 
-[Go to Lab 02](/lab-02-corporate-network/)
+[Go to Lab 02](/lab-02-coorporate-network/)
 
 ---
 
