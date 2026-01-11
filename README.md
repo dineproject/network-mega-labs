@@ -1,17 +1,44 @@
-# Network Mega Labs
+## Network Mega Labs
 
-Open-source collection of comprehensive, reproducible network labs for network engineers.
+Collection of comprehensive network labs covering enterprise networking, automation, and advanced topics.
 
-## Objective
+### About
 
-Provide hands-on, real-world network scenarios that anyone can reproduce and learn from.
+This repository contains network projects that combine multiple technologies into realistic scenarios.
 
-## Available Labs
+Each lab includes:
 
-### Lab 01: Enterprise Wireless Network
+- Complete topology (Packet Tracer)
+- Step-by-step instructions
+- Verification procedures
+- Full documentation
 
-![Wireless Entreprise Topology](/assets/topology_lab_01_wireless_enterprise.png)
+### Available Labs
+
+#### Lab 01: Enterprise Wireless Network
+
+![Wireless Enterprise Topology](/assets/topology_lab_01_wireless_enterprise.png)
+
 **Topics:** VLANs, EtherChannel, SVI, Wireless LAN Controller, DHCP, NTP, ACLs, SSH  
-**Tools:** Cisco Packet Tracer 8.2+
+**Tools:** Cisco Packet Tracer 8.2+  
+**Inspired by:** [Jeremy's IT Lab Mega Lab](https://youtu.be/2p7-MluKAgE)
 
 [Go to Lab 01](/lab-01-wireless-enterprise/)
+
+---
+
+#### Lab 02: Multi-Site Corporate Network
+
+![Corporate Network Topology](/assets/lab_02_topology_it_coorporate.png)
+
+**Topics:** HSRP, RSTP, OSPF, GRE, IPsec VPN, DHCP Relay, ACLs  
+**Tools:** Cisco Packet Tracer 8.2+  
+**Inspired by:** [GuruTech Network](https://gurutechnetworks.otombenard.com/assetsProject/advanceproject4)
+
+[Go to Lab 02](/lab-02-corporate-network/)
+
+---
+
+### License
+
+MIT - Free for educational use.
